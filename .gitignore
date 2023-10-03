@@ -183,6 +183,5 @@ fastlane/test_output
 fastlane/readme.md
 package-lock.json
 ios/Podfile.lock
-package.json
 package-lock.json
 ios/Podfile.lock
